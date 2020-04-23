@@ -1,0 +1,18 @@
+body {background-color: powderblue;}
+
+h1 {
+  color: pink;
+  font-size: 66px;
+}
+h2 {
+   color: plum; 
+}
+h3 {
+    color: palevioletred;
+}
+p {
+    color: violet;
+}
+img {
+    height: 765px;
+}
